@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "Criando um server",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NODE_EXPRESS"
+  },
+  "author": "Felipe Sella Lopes",
+  "license": "ISC"
+}
